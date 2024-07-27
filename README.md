@@ -11,6 +11,6 @@ then choose the length of the password do you want
 
 
 
-			Thank you :)
+<center>Thank you :)</center>
 
-Made By Waqqas Alsadoon 
+<center>Made By Waqqas Alsadoon </center>
